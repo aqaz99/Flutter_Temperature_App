@@ -75,7 +75,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
     // show a notification at top of screen.
     showSimpleNotification(Text("this is a message from simple notification"),
-        background: Colors.blue);
+        background: Color.fromARGB(255, 110, 155, 192));
   }
 
   Future<String> getCurrentWeather() async {
