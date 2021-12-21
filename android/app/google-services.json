@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "395203222169",
+    "project_id": "temperatureapp-229b1",
+    "storage_bucket": "temperatureapp-229b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395203222169:android:cd4f881bbc0fe8688f7608",
+        "android_client_info": {
+          "package_name": "com.TwoOneTwoThreeStudios.TemperatureApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395203222169-na782rgro9n3em4e8aatd511is0ni7jm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYTMAjBAc_0aSnDVPJVNbLLAY8mYtwhfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395203222169-na782rgro9n3em4e8aatd511is0ni7jm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
